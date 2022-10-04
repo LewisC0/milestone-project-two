@@ -23,7 +23,7 @@
     font-size: 60px;
 }
 
-.player-turn-display{
+.display{
     color: #DBC8AC;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -60,6 +60,10 @@
 
 .x-player{
     color: #BB6464;
+}
+
+.hide{
+    display: none;
 }
 
 .game-controls{
