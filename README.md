@@ -217,4 +217,5 @@ The website was built with mobile design in mind, which is clear to see when tes
 ## Code
 
 [Code Institute](https://codeinstitute.net/) - I referred to lessons and source code from Code Institute's Web Application Development course.
+Javascript code references and help from this video - https://www.youtube.com/watch?v=B3pmT7Cpi24
 
